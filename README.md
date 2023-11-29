@@ -7,6 +7,6 @@ Connecting to a database, and extracting all records in the table to a Dataframe
 
 ## import connect from pymysql library, and put in Mysql details
 
-## write my sql query
+## write sql query
 
 ## use read_sql from pandas, pass in details and query
